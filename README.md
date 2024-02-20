@@ -2,6 +2,9 @@
 
 Welcome to `cheatsheet.one`, the ultimate destination for discovering and sharing cheat sheets on a wide variety of topics. Whether you're looking to enhance your education, make life easier, dominate in gaming, or get ahead in tech, you'll find valuable cheat sheets here, all in markdown format for easy use and contribution.
 
+`cheatsheet.one` is built upon and strongly relies on open-source content, including materials licensed under the MIT license and other free-to-use licenses, available on GitHub. We are committed to fostering an environment where knowledge and resources are freely shared and where the contributions of all community members are valued.
+
+
 ## Categories
 
 Our cheat sheets are organized into four main categories:
@@ -22,7 +25,11 @@ Contributing to `cheatsheet.one` is straightforward and rewarding. Share your kn
 
 Please ensure your cheat sheet follows the below structure for consistency and ease of use.
 
+You can also add a cheat sheet on the main website at [https://cheatsheets.one/Entry/@@new?name=](https://cheatsheets.one/Entry/@@new?name=). Please allow me 2-3 days for checking and approving the uploaded cheat sheet.
+
 ### Cheat Sheet Structure
+
+The structure is very simple, see it below or check the examples and/or the content sources in the project category directories. Please only use standard markdown code.
 
 ```markdown
 Short description of the cheat sheet content in 3-4 sentences.
