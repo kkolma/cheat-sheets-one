@@ -7,7 +7,7 @@ Welcome to `cheatsheet.one`, the ultimate destination for discovering and sharin
 
 ## Categories
 
-Our cheat sheets are organized into four main categories:
+The cheat sheets are organized into four main categories:
 
 - **Education**: Enhance your learning with cheat sheets on academic subjects, study guides, and more.
 - **Lifestyle**: Make your day-to-day life easier with cheat sheets on everything from cooking recipes to fitness routines.
