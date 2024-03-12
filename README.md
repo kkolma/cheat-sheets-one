@@ -33,15 +33,15 @@ The structure is very simple, see it below or check the examples and/or the cont
 
 ```markdown
 Short description of the cheat sheet content in 3-4 sentences.
-### Subtopic 1
-#### Sub-Subtopic 1.1
+## Subtopic 1
+### Sub-Subtopic 1.1
 Explanation of sub-subtopic 1.1.
 
-#### Sub-Subtopic 1.2
+### Sub-Subtopic 1.2
 Explanation of sub-subtopic 1.2.
 
-### Subtopic 2
-#### Sub-Subtopic 2.1
+## Subtopic 2
+### Sub-Subtopic 2.1
 Explanation of sub-subtopic 2.1.
 
 ...```
